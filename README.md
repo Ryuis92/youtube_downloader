@@ -1,5 +1,5 @@
 # youtube_downloader
-youtube downloader with python using pytube
+youtube downloader with python using pytube and pyqt5 for GUI
 
 this is a youtube downloader written in python 3.6 with open source library pytube.
 
