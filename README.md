@@ -5,6 +5,6 @@ some additions to pytube are made for some use like getting high quality thumbna
 
 To use this program you need to download FFmpeg and put 'ffmpeg.exe' in the same directory as that of youtube_downloader.py
 
-you can download here https://ffmpeg.zeranoe.com/builds/
+you can download FFmpeg here https://ffmpeg.zeranoe.com/builds/
 
 
